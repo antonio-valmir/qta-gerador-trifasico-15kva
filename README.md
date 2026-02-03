@@ -41,7 +41,7 @@ O sistema está em **operação real a 8 messes**, garantindo fornecimento cont�
 
 ## 🎥 Vídeo de Demonstração
 
-- Sistema em funcionamento real: **(cole aqui o link do YouTube)**
+- Sistema em funcionamento real: **cole aqui o link do YouTube](https://www.youtube.com/watch?v=-j3XpVS45Q0**
 
 ---
 
