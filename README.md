@@ -11,7 +11,7 @@ de um **gerador trifásico de 15 kVA**, instalado em um **posto de combustível*
 
 Todo o sistema foi **100% projetado, montado e programado por mim**, com foco em **funcionalidade, segurança e confiabilidade**, priorizando a **lógica de operação e a robustez de campo** acima de estética de painel.
 
-O sistema está em **operação real**, garantindo fornecimento contínuo de energia em caso de falha da rede.
+O sistema está em **operação real a 8 messes**, garantindo fornecimento contínuo de energia em caso de falha da rede.
 
 ---
 
