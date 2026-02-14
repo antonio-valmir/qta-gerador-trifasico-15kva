@@ -1,6 +1,6 @@
-# ⚡ Quadro de Transferência Automática (QTA) – Gerador Trifásico 15 kVA
+#  Quadro de Transferência Automática (QTA) – Gerador Trifásico 15 kVA
 
-## 🔥Projeto Real | Automação Industrial | Sistemas de Potência
+## Projeto Real | Automação Industrial | Sistemas de Potência
 
 ---
 
@@ -15,7 +15,7 @@ O sistema está em **operação real a 8 messes**, garantindo fornecimento cont�
 
 ---
 
-## 🔧 Funcionalidades
+##  Funcionalidades
 
 - Detecção automática de falha da rede elétrica  
 - Partida automática do gerador  
@@ -29,7 +29,7 @@ O sistema está em **operação real a 8 messes**, garantindo fornecimento cont�
 
 ---
 
-## ⚙️ Fluxo de Operação
+## Fluxo de Operação
 
 1. Rede presente → carga alimentada pela concessionária  
 2. Falha de rede → sistema inicia o gerador  
@@ -39,7 +39,7 @@ O sistema está em **operação real a 8 messes**, garantindo fornecimento cont�
 
 ---
 
-## 🎥 Vídeo de Demonstração
+##  Vídeo de Demonstração
 
 - Sistema em funcionamento real: **(https://www.youtube.com/watch?v=-j3XpVS45Q0)**
 
